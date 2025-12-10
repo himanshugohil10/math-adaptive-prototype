@@ -18,7 +18,7 @@ A Streamlit-based web application designed for children aged 5–10 to practice 
 2. **Setup**
    Navigate to the project directory:
    ```bash
-   git clone https://github.com/<himanshugohil10>/math-adaptive-prototype.git
+   git clone https://github.com/himanshugohil10/math-adaptive-prototype.git
    ```
 
    Install dependencies:
